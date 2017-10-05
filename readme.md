@@ -1,7 +1,7 @@
 # React Docker
 
 ## Base image
-- node:6.9.5-alpine
+- mhart/alpine-node:8
 
 ### Docker Compose
 - Nginx
