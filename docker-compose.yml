@@ -6,6 +6,6 @@ services:
    - "80:80"
    volumes:
     - ./supervisor:/supervisor
-    - ./nginx:/nginx
+    - ./nginx/conf.d:/etc/nginx/conf.d
     - ./www:/www
     - ./src:/src
