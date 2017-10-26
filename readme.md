@@ -1,5 +1,9 @@
 # React Docker
 
+## Dependencies
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)
+
 ## Base image
 - mhart/alpine-node:8
 
